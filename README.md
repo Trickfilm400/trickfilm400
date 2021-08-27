@@ -1,17 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-I am using following languages:
-* Javascript & Typescript ( => Nodejs)
-* PHP (HTML, a bit of CSS)
-* SQL ( + MongoDB (Mongoose))
-* a bit of BASH, Python, (Java)
+### ✏️ I am using following:
+- **Languages:** Typescript (Node.js), PHP (HTML, a bit of CSS), C#
+- **Runtimes**: Nodejs, .NET Core
+- **Frameworks**: Vue.js, express
+- **📊 Databases**: Mysql, MongoDB, redis
 
+### ⌨️ Projects in Development:
+- discord.js bot (private)
+- other small projects which are at the moment all private
 
-- 🔭 I’m currently working on ...       discord-bot, ssh2 server, console.log project
-- 🌱 I’m currently learning ...         maybe Flutter
-- 👯 I’m looking to collaborate on ...  private repos
-- 🤔 I’m looking for help with ...      my brain lol
-- 💬 Ask me about ...                   anything
-- 📫 How to reach me: ...               create an issue or write an email, idk
-- 😄 Pronouns: ...                      ._.
-- ⚡ Fun fact: ...                       #germany #gitlab
+### 🖥️ Projects in production:
+- [vantage-node](https://github.com/trickfilm400/vantage-node)
+- [generic-nodejs-docker](https://github.com/trickfilm400/generic-nodejs-docker)
+
+### Other
+- Huge interest in DevOps like Gitlab CI/CD or GitHub Actions
+- Fan of **Docker** and Kubernetes
+
+### 🌍 Contact:
+- Email: trickfilm400@gmail.com
+- Discord: Trickfilm400#7579
