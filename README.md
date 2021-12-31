@@ -1,9 +1,10 @@
 # Hi there 👋
 
 ### ✏️ I am using following:
-- **Languages:** Typescript (Node.js), PHP (HTML, a bit of CSS), C#
-- **Runtimes**: Nodejs, .NET Core
-- **Frameworks**: Vue.js, express
+- **Languages:** Typescript, PHP (HTML, a bit of CSS)
+- _Languages with very little experience_: C# (.NET Core), Java
+- **Runtimes**: [Nodejs](https://nodejs.org/en/)
+- **Frameworks**: Vue.js & Vite, express, typeorm
 - **📊 Databases**: Mysql, MongoDB, redis
 
 ### ⌨️ Projects in Development:
@@ -15,6 +16,8 @@
 - [generic-nodejs-docker](https://github.com/trickfilm400/generic-nodejs-docker)
 - [HomePage](https://github.com/trickfilm400/homepage)
 - [printer-Data](https://github.com/Trickfilm400/printer-data)
+- [advent-calendar-api](https://github.com/Trickfilm400/advent-calendar-api)
+- [simple-dmx-control](https://github.com/Trickfilm400/simple-dmx-control)
 
 ### Other
 - Huge interest in DevOps like Gitlab CI/CD or GitHub Actions
