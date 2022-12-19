@@ -5,18 +5,23 @@
 - _Languages with very little experience_: C# (.NET Core), Java
 - **Runtimes**: [Nodejs](https://nodejs.org/en/)
 - **Frameworks**: Vue.js & Vite, express, typeorm
-- **📊 Databases**: Mysql, MongoDB, redis
+- **📊 Databases**: MySQL, MongoDB, redis
 
 ### ⌨️ Projects in Development:
-- discord.js bot (private)
+- [program so send emails via SMTP and a rabbitMQ queue](https://github.com/node-mail-broadcast)
 - other small projects which are at the moment all private
 
 ### 🖥️ Projects in production:
-- [vantage-node](https://github.com/trickfilm400/vantage-node)
+- [typescript-project-scaffolding](https://github.com/Trickfilm400/typescript-project-scaffolding) -> Create new typescript projects in seconds
+- [express-utils-template](https://github.com/Trickfilm400/express-utils-template) -> Template repo for easy express API development
+- [vantage-node](https://github.com/trickfilm400/vantage-node) -> Get weather data from vantage-pro weather station
 - [generic-nodejs-docker](https://github.com/trickfilm400/generic-nodejs-docker)
 - [HomePage](https://github.com/trickfilm400/homepage)
 - [printer-Data](https://github.com/Trickfilm400/printer-data)
 - [advent-calendar-api](https://github.com/Trickfilm400/advent-calendar-api)
+
+### Paused projects (due to missing time or no relevance)
+- discord.js bot (private)
 - [simple-dmx-control](https://github.com/Trickfilm400/simple-dmx-control)
 
 ### Other
