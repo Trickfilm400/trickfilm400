@@ -30,4 +30,4 @@
 
 ### 🌍 Contact:
 - Email: trickfilm400@gmail.com
-- Discord: Trickfilm400#7579
+- Discord: trickfilm400
