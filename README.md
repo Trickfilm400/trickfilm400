@@ -29,6 +29,9 @@
 - Huge interest in DevOps like Gitlab CI/CD or GitHub Actions
 - Fan of **Docker** and Kubernetes
 
+### Some Statistics
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=trickfilm400&theme=github_dark&show_icons=true)
+
 ### 🌍 Contact:
 - Email: trickfilm400@gmail.com
 - Discord: trickfilm400
